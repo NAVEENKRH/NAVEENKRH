@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm passionate about leveraging data analytics to 
 - ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-## Projects
+##  TOP Projects
 1. **Healthcare Provider Analysis** using PowerBI
 2. **Financing Bank Loans Analysis** using SQL and PowerBI
 3. **Awesome Chocolates Company Sales Analysis** using Excel
