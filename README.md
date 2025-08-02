@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm passionate about leveraging data analytics to 
 4. **Data Job Analysis** using SQL
 
 ## Contact
-- [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Site-blue?style=for-the-badge&logo=internet-explorer)]((https://codebasics.io/portfolio/Naveen-Kumar))
+- [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Site-blue?style=for-the-badge&logo=internet-explorer)](https://codebasics.io/portfolio/Naveen-Kumar)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naveen-krh)
 - [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naveekr466@gmail.com)
 
